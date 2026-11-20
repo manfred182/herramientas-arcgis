@@ -1,0 +1,15 @@
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\bin\Release\net8.0-windows\Resources\SalidasGraficas.pyt
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\bin\Release\net8.0-windows\Resources\Plantilla_Monitoreo_Florencia.pagx
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\bin\Release\net8.0-windows\SalidasGraficasAddIn.deps.json
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\bin\Release\net8.0-windows\SalidasGraficasAddIn.dll
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\bin\Release\net8.0-windows\SalidasGraficasAddIn.pdb
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\obj\Release\net8.0-windows\SalidasGraficasAddIn.csproj.AssemblyReference.cache
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\obj\Release\net8.0-windows\SalidasGraficasAddIn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\obj\Release\net8.0-windows\SalidasGraficasAddIn.AssemblyInfoInputs.cache
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\obj\Release\net8.0-windows\SalidasGraficasAddIn.AssemblyInfo.cs
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\obj\Release\net8.0-windows\SalidasGraficasAddIn.csproj.CoreCompileInputs.cache
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\obj\Release\net8.0-windows\SalidasGraficasAddIn.sourcelink.json
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\obj\Release\net8.0-windows\SalidasGraficasAddIn.dll
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\obj\Release\net8.0-windows\refint\SalidasGraficasAddIn.dll
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\obj\Release\net8.0-windows\SalidasGraficasAddIn.pdb
+D:\Aplicaciones de Desarrollo Amazon GIS\Herramientas ArcGIS\app Salidas Graficas\ArcGISProAddIn\obj\Release\net8.0-windows\ref\SalidasGraficasAddIn.dll
